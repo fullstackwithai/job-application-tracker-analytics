@@ -1,34 +1,36 @@
-# 📋 Job Application Tracker & Analytics Dashboard
+# 🤖 AI Contract Risk Reviewer
 
-> A BI-style job search dashboard that tracks applications, interview stages, recruiter responses, and offer pipeline — built to demonstrate real Data Analyst and full-stack product thinking.
+> An AI-powered contract analysis tool that detects risk clauses, scores contract safety, and generates negotiation-ready recommendations — built with a real Node.js backend and OpenAI API integration.
 
-🔗 **[Live Demo](https://fullstackwithai.github.io/job-application-tracker-analytics/)**  |  👤 *[Portfolio](https://www.designhubmk.com)*  |  💼 **[LinkedIn](https://www.linkedin.com/in/arsim-shefkiu-78432a3b5)**
+🔗 **[Live Demo](https://fullstackwithai.github.io/ai-contract-risk-reviewer/)** &nbsp;|&nbsp; 👤 *[Portfolio](https://www.designhubmk.com)* &nbsp;|&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/arsim-shefkiu-78432a3b5)**
 
 ---
 
-![Dashboard Screenshot](./assets/screenshot.png)
+![App Screenshot](./assets/screenshot.png)
 
 ---
 
 ## 🧠 What This Project Demonstrates
 
-Built to be understood by a recruiter in under 30 seconds. It shows:
+This is a full-stack AI product — not just a UI mockup:
 
-- Real business dashboard thinking — KPIs, pipeline stages, conversion metrics
-- Data organization and filtering logic built in vanilla JavaScript
-- Clean, responsive UI without any framework dependencies
-- Practical product thinking: this is a tool a real job seeker or career coach would use
+- *Real backend* — Node.js + Express server with an /api/analyze-contract endpoint
+- *OpenAI API integration* — wired and ready for live AI contract analysis
+- *Prompt engineering* — structured prompts for clause detection, risk scoring, and negotiation output
+- *SaaS product thinking* — polished interface designed like a real LegalTech product
+- *End-to-end architecture* — frontend ↔️ API ↔️ AI model flow fully designed
 
 ---
 
 ## ✅ Features
 
-- *Pipeline KPI Cards* — Total applications, interviews, offers, response rate
-- *Stage Filter* — Filter table by Applied, Screening, Interview, Offer, Rejected
-- *Weekly Volume Chart* — BI-style bar chart showing application activity over time
-- *Application Table* — Company, role, stage, date, and recruiter response columns
-- *Mock Dataset* — Realistic sample data built into JavaScript for instant demo
-- *Responsive Layout* — Works across desktop, tablet, and mobile
+- *Contract Text Input* — Paste any contract text for instant analysis
+- *Risk Severity Cards* — High / Medium / Low risk clauses clearly flagged
+- *Contract Safety Score* — Numeric risk score with visual indicator
+- *Negotiation Email Draft* — AI-generated counter-proposal language
+- *Local Demo Mode* — Works without an API key for instant portfolio preview
+- *OpenAI-Ready Backend* — Full server route ready for live AI responses
+- *Mobile-Friendly SaaS UI* — Clean, professional interface across all devices
 
 ---
 
@@ -36,23 +38,31 @@ Built to be understood by a recruiter in under 30 seconds. It shows:
 
 | Layer | Technology |
 |---|---|
-| Structure | HTML5 |
-| Styling | CSS3 / Flexbox / Grid |
-| Logic | Vanilla JavaScript |
-| Charts | Client-side rendering |
-| Data | Mock dataset (JS) |
+| Frontend | HTML5, CSS3, Vanilla JavaScript |
+| Backend | Node.js, Express |
+| AI Integration | OpenAI API (/api/analyze-contract) |
+| Deployment | GitHub Pages (frontend) |
 
 ---
 
 ## 🚀 Run Locally
 
+*Frontend only (demo mode):*
 bash
-# Option 1 — Open directly
 open index.html
+# or
+npx http-server .
 
-# Option 2 — Local server
-python -m http.server 5173
-# Then visit: http://localhost:5173
+
+*Full stack with AI backend:*
+bash
+npm install
+OPENAI_API_KEY=your_key_here npm start
+
+
+Then POST contract text to:
+
+http://localhost:3000/api/analyze-contract
 
 
 ---
@@ -60,11 +70,11 @@ python -m http.server 5173
 ## 📁 Project Structure
 
 
-job-application-tracker-analytics/
-├── index.html
+ai-contract-risk-reviewer/
+├── index.html        # Frontend SaaS UI
+├── server.js         # Node.js + Express backend
+├── package.json      # Dependencies
 ├── assets/
-│   ├── styles.css
-│   ├── app.js
 │   └── screenshot.png
 └── README.md
 
@@ -73,19 +83,20 @@ job-application-tracker-analytics/
 
 ## 🔮 Planned Improvements
 
-- [ ] Convert to React components
-- [ ] Add API data loading
-- [ ] Add authentication and protected routes
-- [ ] Persist data in PostgreSQL
-- [ ] Add automated tests and CI/CD
+- [ ] Connect frontend to live backend endpoint
+- [ ] PDF upload and parsing
+- [ ] Jurisdiction selector (US, UK, EU)
+- [ ] Saved review history with authentication
+- [ ] Multi-clause comparison mode
 
 ---
 
 ## 👤 About
 
-Built by *Arsim Shefkiu* — Full Stack Web Developer & AI-Assisted Builder with a focus on data-driven web products.
+Built by *Arsim Shefkiu* — Full Stack Web Developer & AI-Assisted Builder specializing in AI-powered web products.
 
 - 🌐 [designhubmk.com](https://www.designhubmk.com)
 - 📧 info@designhubmk.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/arsim-shefkiu-78432a3b5)
 - 🐙 [GitHub](https://github.com/fullstackwithai)
+-
