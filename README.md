@@ -1,34 +1,65 @@
-# Job Application Tracker Analytics
+# 📋 Job Application Tracker & Analytics Dashboard
 
-![Project screenshot](assets/screenshot.png)
+> A BI-style job search dashboard that tracks applications, interview stages, recruiter responses, and offer pipeline — built to demonstrate real Data Analyst and full-stack product thinking.
 
-## Overview
+🔗 **[Live Demo](https://fullstackwithai.github.io/job-application-tracker-analytics/)**  |  👤 *[Portfolio](https://www.designhubmk.com)*  |  💼 **[LinkedIn](https://www.linkedin.com/in/arsim-shefkiu-78432a3b5)**
 
-A job application tracker and analytics dashboard that demonstrates data organization, BI-style metrics, filtering, and practical full-stack product thinking for candidates and career coaches.
+---
 
-## Why this project exists
+![Dashboard Screenshot](./assets/screenshot.png)
 
-This repository is designed to be visible and understandable to recruiters in the first 30 seconds. It shows practical product thinking, clean front-end structure, responsive UI execution, and business/data awareness.
+---
 
-## Features
+## 🧠 What This Project Demonstrates
 
-- Application pipeline KPIs and conversion metrics
-- Filterable application table by stage and company
-- BI-style chart showing weekly application volume
-- Mock dataset included in JavaScript
-- Clean README explaining data and product decisions
+Built to be understood by a recruiter in under 30 seconds. It shows:
 
-## Tech Stack
+- Real business dashboard thinking — KPIs, pipeline stages, conversion metrics
+- Data organization and filtering logic built in vanilla JavaScript
+- Clean, responsive UI without any framework dependencies
+- Practical product thinking: this is a tool a real job seeker or career coach would use
 
-- HTML5
-- CSS3
-- Vanilla JavaScript
-- Responsive layout
-- Mock dataset / client-side interactions
+---
 
-## Project Structure
+## ✅ Features
 
-```text
+- *Pipeline KPI Cards* — Total applications, interviews, offers, response rate
+- *Stage Filter* — Filter table by Applied, Screening, Interview, Offer, Rejected
+- *Weekly Volume Chart* — BI-style bar chart showing application activity over time
+- *Application Table* — Company, role, stage, date, and recruiter response columns
+- *Mock Dataset* — Realistic sample data built into JavaScript for instant demo
+- *Responsive Layout* — Works across desktop, tablet, and mobile
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer | Technology |
+|---|---|
+| Structure | HTML5 |
+| Styling | CSS3 / Flexbox / Grid |
+| Logic | Vanilla JavaScript |
+| Charts | Client-side rendering |
+| Data | Mock dataset (JS) |
+
+---
+
+## 🚀 Run Locally
+
+bash
+# Option 1 — Open directly
+open index.html
+
+# Option 2 — Local server
+python -m http.server 5173
+# Then visit: http://localhost:5173
+
+
+---
+
+## 📁 Project Structure
+
+
 job-application-tracker-analytics/
 ├── index.html
 ├── assets/
@@ -36,40 +67,25 @@ job-application-tracker-analytics/
 │   ├── app.js
 │   └── screenshot.png
 └── README.md
-```
 
-## How to Run
 
-Open `index.html` directly in your browser, or run a simple local server:
+---
 
-```bash
-python -m http.server 5173
-```
+## 🔮 Planned Improvements
 
-Then open:
+- [ ] Convert to React components
+- [ ] Add API data loading
+- [ ] Add authentication and protected routes
+- [ ] Persist data in PostgreSQL
+- [ ] Add automated tests and CI/CD
 
-```text
-http://localhost:5173
-```
+---
 
-## Recruiter Notes
+## 👤 About
 
-This project is intentionally built as a polished portfolio piece. It demonstrates:
+Built by *Arsim Shefkiu* — Full Stack Web Developer & AI-Assisted Builder with a focus on data-driven web products.
 
-- UI/UX judgment
-- Responsive front-end implementation
-- Business dashboard thinking
-- Clean file organization
-- Ability to turn an idea into a product-like interface
-
-## Future Improvements
-
-- Convert to React components
-- Add API data loading
-- Add authentication and protected routes
-- Persist data in a database
-- Add automated tests
-
-## Author
-
-Built for a full-stack / frontend / DA-BI focused GitHub portfolio.
+- 🌐 [designhubmk.com](https://www.designhubmk.com)
+- 📧 info@designhubmk.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/arsim-shefkiu-78432a3b5)
+- 🐙 [GitHub](https://github.com/fullstackwithai)
