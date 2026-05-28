@@ -1,102 +1,86 @@
-# 🤖 AI Contract Risk Reviewer
+# Job Application Tracker Analytics
 
-> An AI-powered contract analysis tool that detects risk clauses, scores contract safety, and generates negotiation-ready recommendations — built with a real Node.js backend and OpenAI API integration.
+> A recruiter-friendly analytics dashboard for tracking job applications, interview stages, recruiter responses, offer status, and job-search performance.
 
-🔗 **[Live Demo](https://fullstackwithai.github.io/ai-contract-risk-reviewer/)** &nbsp;|&nbsp; 👤 *[Portfolio](https://www.designhubmk.com)* &nbsp;|&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/arsim-shefkiu-78432a3b5)**
+Built by **Arsim Shefkiu** under **FullStackWithAI** — full-stack, AI-assisted, and data-driven web solutions.
 
----
-
-![App Screenshot](./assets/screenshot.png)
+![Project screenshot](assets/screenshot.png)
 
 ---
 
-## 🧠 What This Project Demonstrates
+## Overview
 
-This is a full-stack AI product — not just a UI mockup:
+This project presents a clean job-search analytics dashboard designed for candidates, career coaches, and hiring-focused workflows. It turns application activity into clear KPIs, pipeline stages, status cards, and insight-driven sections that are easy for recruiters to understand in seconds.
 
-- *Real backend* — Node.js + Express server with an /api/analyze-contract endpoint
-- *OpenAI API integration* — wired and ready for live AI contract analysis
-- *Prompt engineering* — structured prompts for clause detection, risk scoring, and negotiation output
-- *SaaS product thinking* — polished interface designed like a real LegalTech product
-- *End-to-end architecture* — frontend ↔️ API ↔️ AI model flow fully designed
+## What This Project Demonstrates
 
----
+- Dashboard UI thinking for real-world productivity workflows
+- KPI cards and status summaries for quick decision-making
+- Candidate pipeline tracking across application, interview, offer, and rejection stages
+- Responsive front-end structure suitable for portfolio review
+- Data-aware presentation for DA / BI / Full Stack positioning
 
-## ✅ Features
+## Features
 
-- *Contract Text Input* — Paste any contract text for instant analysis
-- *Risk Severity Cards* — High / Medium / Low risk clauses clearly flagged
-- *Contract Safety Score* — Numeric risk score with visual indicator
-- *Negotiation Email Draft* — AI-generated counter-proposal language
-- *Local Demo Mode* — Works without an API key for instant portfolio preview
-- *OpenAI-Ready Backend* — Full server route ready for live AI responses
-- *Mobile-Friendly SaaS UI* — Clean, professional interface across all devices
+- Application status overview
+- Interview and recruiter-response tracking
+- KPI-style job-search metrics
+- Clean analytics sections for fast review
+- Responsive layout for desktop, tablet, and mobile
+- Portfolio-ready structure with simple local setup
 
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |---|---|
 | Frontend | HTML5, CSS3, Vanilla JavaScript |
-| Backend | Node.js, Express |
-| AI Integration | OpenAI API (/api/analyze-contract) |
-| Deployment | GitHub Pages (frontend) |
+| UI | Responsive dashboard layout |
+| Data | Mock/local application data |
+| Deployment | GitHub Pages-ready static project |
 
----
+## Run Locally
 
-## 🚀 Run Locally
+Open `index.html` directly in your browser, or run a simple local server:
 
-*Frontend only (demo mode):*
-bash
-open index.html
-# or
-npx http-server .
+```bash
+python -m http.server 5173
+```
 
+Then open:
 
-*Full stack with AI backend:*
-bash
-npm install
-OPENAI_API_KEY=your_key_here npm start
+```text
+http://localhost:5173
+```
 
+## Project Structure
 
-Then POST contract text to:
-
-http://localhost:3000/api/analyze-contract
-
-
----
-
-## 📁 Project Structure
-
-
-ai-contract-risk-reviewer/
-├── index.html        # Frontend SaaS UI
-├── server.js         # Node.js + Express backend
-├── package.json      # Dependencies
+```text
+job-application-tracker-analytics/
+├── index.html
 ├── assets/
+│   ├── styles.css
+│   ├── app.js
 │   └── screenshot.png
 └── README.md
+```
 
+## Recruiter Notes
 
----
+This repository is built to show practical full-stack and analytics thinking. It is intentionally simple, readable, and presentation-focused so hiring teams can quickly understand the purpose, interface, and business value.
 
-## 🔮 Planned Improvements
+## Future Improvements
 
-- [ ] Connect frontend to live backend endpoint
-- [ ] PDF upload and parsing
-- [ ] Jurisdiction selector (US, UK, EU)
-- [ ] Saved review history with authentication
-- [ ] Multi-clause comparison mode
+- Add persistent storage
+- Add CSV import/export
+- Add authentication
+- Add charts for weekly progress
+- Add AI-generated job-search recommendations
 
----
+## About
 
-## 👤 About
-
-Built by *Arsim Shefkiu* — Full Stack Web Developer & AI-Assisted Builder specializing in AI-powered web products.
+Built by **Arsim Shefkiu** under **FullStackWithAI** — Full Stack Web Developer & AI-Assisted Builder specializing in AI-powered web products, dashboards, automation tools, and modern portfolio-ready applications.
 
 - 🌐 [designhubmk.com](https://www.designhubmk.com)
 - 📧 info@designhubmk.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/arsim-shefkiu-78432a3b5)
 - 🐙 [GitHub](https://github.com/fullstackwithai)
--
