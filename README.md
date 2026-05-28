@@ -80,40 +80,31 @@ This repository is built to show practical full-stack and analytics thinking. It
 
 ## Creator & Brand
 
-<div align="center">
+<p align="center">
+  <img alt="Career Analytics" src="https://img.shields.io/badge/Career%20Analytics-Job%20Pipeline%20Dashboard-7C3AED?style=for-the-badge" />
+  <img alt="Recruiter Ready" src="https://img.shields.io/badge/Recruiter--Ready-Application%20Tracking-111827?style=for-the-badge" />
+  <img alt="Brand" src="https://img.shields.io/badge/Built%20Under-FullStackWithAI-EC4899?style=for-the-badge" />
+</p>
 
 ### Built by **Arsim Shefkiu** under **FullStackWithAI**
 
-**Full-stack developer · AI-assisted builder · Data analytics / BI portfolio creator**
+> **Career analytics and pipeline visibility for job seekers, recruiters, and performance-focused hiring workflows.**
 
-</div>
+| Brand Direction | Portfolio Value |
+|---|---|
+| **Career pipeline analytics** | Shows how raw activity can become decision-ready insight |
+| **Recruiter-friendly interface** | Demonstrates clean status tracking, prioritization, and fast readability |
+| **Dashboard storytelling** | Turns applications, interviews, and responses into measurable progress |
+| **Practical product thinking** | Positions the project as useful software, not a static UI exercise |
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Professional Focus</h3>
-      <p>I build polished, business-focused digital products that combine clean frontend execution, practical analytics thinking, automation, and AI-assisted workflows.</p>
-      <p>This project is part of a premium portfolio designed to show recruiter-ready ability across <strong>Data Analytics</strong>, <strong>Business Intelligence</strong>, <strong>dashboard design</strong>, and <strong>full-stack product thinking</strong>.</p>
-    </td>
-    <td width="50%">
-      <h3>FullStackWithAI Positioning</h3>
-      <p><strong>FullStackWithAI</strong> represents modern portfolio work built around real-world business problems, clean user experience, analytics clarity, and AI-enhanced development speed.</p>
-      <p>The goal is to create projects that look professional, explain business value clearly, and demonstrate practical skills beyond basic code samples.</p>
-    </td>
-  </tr>
-</table>
+**Professional Focus:** I build polished dashboards and workflow tools that make complex activity easier to understand, track, and improve.
+
+**Why it matters:** Hiring teams can see the ability to build tools around real human workflows, business logic, and measurable outcomes.
 
 <p align="center">
-  <img alt="Data Analytics" src="https://img.shields.io/badge/Data%20Analytics-Executive%20Reporting-2563eb?style=flat-square" />
-  <img alt="Business Intelligence" src="https://img.shields.io/badge/Business%20Intelligence-KPI%20Dashboards-f59e0b?style=flat-square" />
-  <img alt="Full Stack" src="https://img.shields.io/badge/Full%20Stack-Product%20Thinking-0f172a?style=flat-square" />
-  <img alt="AI Assisted" src="https://img.shields.io/badge/AI--Assisted-Builder-16a34a?style=flat-square" />
+  <a href="https://www.designhubmk.com"><strong>www.designhubmk.com</strong></a> · <strong>arsim@designhubmk.com</strong> · <a href="https://github.com/fullstackwithai"><strong>GitHub: fullstackwithai</strong></a>
 </p>
 
 <p align="center">
-  <strong>Website:</strong> www.designhubmk.com · <strong>Email:</strong> arsim@designhubmk.com · <strong>GitHub:</strong> fullstackwithai
-</p>
-
-<p align="center">
-  <strong>FullStackWithAI</strong> · Premium dashboards · BI storytelling · SQL analysis · AI-powered product thinking
+  <strong>FullStackWithAI</strong> · Career analytics · Job pipeline dashboards · Recruiter-ready workflows · AI-assisted product thinking
 </p>
