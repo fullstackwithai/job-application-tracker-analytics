@@ -76,11 +76,44 @@ This repository is built to show practical full-stack and analytics thinking. It
 - Add charts for weekly progress
 - Add AI-generated job-search recommendations
 
-## About
+---
 
-Built by **Arsim Shefkiu** under **FullStackWithAI** — Full Stack Web Developer & AI-Assisted Builder specializing in AI-powered web products, dashboards, automation tools, and modern portfolio-ready applications.
+## Creator & Brand
 
-- 🌐 [designhubmk.com](https://www.designhubmk.com)
-- 📧 info@designhubmk.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/arsim-shefkiu-78432a3b5)
-- 🐙 [GitHub](https://github.com/fullstackwithai)
+<div align="center">
+
+### Built by **Arsim Shefkiu** under **FullStackWithAI**
+
+**Full-stack developer · AI-assisted builder · Data analytics / BI portfolio creator**
+
+</div>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Professional Focus</h3>
+      <p>I build polished, business-focused digital products that combine clean frontend execution, practical analytics thinking, automation, and AI-assisted workflows.</p>
+      <p>This project is part of a premium portfolio designed to show recruiter-ready ability across <strong>Data Analytics</strong>, <strong>Business Intelligence</strong>, <strong>dashboard design</strong>, and <strong>full-stack product thinking</strong>.</p>
+    </td>
+    <td width="50%">
+      <h3>FullStackWithAI Positioning</h3>
+      <p><strong>FullStackWithAI</strong> represents modern portfolio work built around real-world business problems, clean user experience, analytics clarity, and AI-enhanced development speed.</p>
+      <p>The goal is to create projects that look professional, explain business value clearly, and demonstrate practical skills beyond basic code samples.</p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img alt="Data Analytics" src="https://img.shields.io/badge/Data%20Analytics-Executive%20Reporting-2563eb?style=flat-square" />
+  <img alt="Business Intelligence" src="https://img.shields.io/badge/Business%20Intelligence-KPI%20Dashboards-f59e0b?style=flat-square" />
+  <img alt="Full Stack" src="https://img.shields.io/badge/Full%20Stack-Product%20Thinking-0f172a?style=flat-square" />
+  <img alt="AI Assisted" src="https://img.shields.io/badge/AI--Assisted-Builder-16a34a?style=flat-square" />
+</p>
+
+<p align="center">
+  <strong>Website:</strong> www.designhubmk.com · <strong>Email:</strong> arsim@designhubmk.com · <strong>GitHub:</strong> fullstackwithai
+</p>
+
+<p align="center">
+  <strong>FullStackWithAI</strong> · Premium dashboards · BI storytelling · SQL analysis · AI-powered product thinking
+</p>
