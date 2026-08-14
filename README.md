@@ -1,20 +1,19 @@
-# Job Application Tracker Analytics
+<div align="center">
 
-> Career analytics dashboard for tracking applications, recruiter responses, interview stages, offers, rejections, and job-search performance.
+# JOB APPLICATION TRACKER ANALYTICS
 
-Built by **Arsim Shefkiu** under **FullStackWithAI**.
+### Career Pipeline & Job Search Performance Dashboard
 
-<p align="center">
-  <img alt="Career Analytics" src="https://img.shields.io/badge/Career%20Analytics-Job%20Pipeline-7C3AED?style=for-the-badge" />
-  <img alt="Recruiter Ready" src="https://img.shields.io/badge/Recruiter--Ready-Application%20Tracking-111827?style=for-the-badge" />
-  <img alt="FullStackWithAI" src="https://img.shields.io/badge/FullStackWithAI-Career%20Dashboard-EC4899?style=for-the-badge" />
-</p>
+**Applications. Recruiter responses. Interviews. Offers. Outcomes.**
 
-<p align="center">
-  <a href="https://www.designhubmk.com"><strong>www.designhubmk.com</strong></a> ·
-  <strong>arsim@designhubmk.com</strong> ·
-  <a href="https://github.com/fullstackwithai"><strong>GitHub: fullstackwithai</strong></a>
-</p>
+[![Portfolio](https://img.shields.io/badge/portfolio-DesignHubMK-0A66C2?style=flat-square)](https://www.designhubmk.com)
+![Focus](https://img.shields.io/badge/focus-Career%20Analytics-7C3AED?style=flat-square)
+![Product](https://img.shields.io/badge/product-Job%20Pipeline%20Dashboard-111827?style=flat-square)
+![Status](https://img.shields.io/badge/status-Portfolio%20Project-2E8B57?style=flat-square)
+
+**Track progress. Improve outcomes. Turn job-search activity into measurable insight.**
+
+</div>
 
 ---
 
@@ -23,8 +22,6 @@ Built by **Arsim Shefkiu** under **FullStackWithAI**.
 ---
 
 ## Career Analytics Theme
-
-> **Track progress. Improve outcomes. Turn job-search activity into measurable insight.**
 
 This repository is presented as a career pipeline analytics dashboard. It turns application activity into clear KPIs, interview progress, recruiter response visibility, and outcome tracking.
 
@@ -110,22 +107,28 @@ job-application-tracker-analytics/
 
 ---
 
-## Creator & Brand
+## Author
 
-### Built by **Arsim Shefkiu** under **FullStackWithAI**
+**Arsim Shefkiu**  
+**AI Software Engineer · Full-Stack Developer · SaaS & Automation**
 
-> **Career analytics theme focused on job pipelines, recruiter visibility, interview tracking, and outcome intelligence.**
+Founder of **DesignHubMK**, building AI-powered software, automation systems, and full-stack digital products.
 
-| Creator Focus | Brand Positioning |
-|---|---|
-| I build workflow dashboards that turn activity into progress, clarity, and measurable improvement. | **FullStackWithAI** represents portfolio work built around practical dashboards, modern UX, and AI-assisted product execution. |
+[![DesignHubMK](https://img.shields.io/badge/DesignHubMK-Website-555555?logo=googlechrome&logoColor=white)](https://www.designhubmk.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%40designhub__mk-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/designhub_mk/)
+[![GitHub](https://img.shields.io/badge/GitHub-fullstackwithai-181717?logo=github&logoColor=white)](https://github.com/fullstackwithai)
 
-<p align="center">
-  <strong>Theme:</strong> Career Analytics · Job Pipeline · Recruiter Workflow · Progress Tracking
-</p>
+**Website:** https://www.designhubmk.com  
+**Instagram:** @designhub_mk
 
-<p align="center">
-  <a href="https://www.designhubmk.com"><strong>www.designhubmk.com</strong></a> ·
-  <strong>arsim@designhubmk.com</strong> ·
-  <a href="https://github.com/fullstackwithai"><strong>GitHub: fullstackwithai</strong></a>
-</p>
+---
+
+<div align="center">
+
+## Job Application Tracker Analytics
+
+**Track progress. Improve outcomes. Turn job-search activity into measurable insight.**
+
+Built by **Arsim Shefkiu · DesignHubMK**
+
+</div>
